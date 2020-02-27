@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "control de containers", "login\control de containers.csproj", "{48ADE2AE-7327-4DFC-92B5-F53F26C0016E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL.Containers", "BL.Containers\BL.Containers.csproj", "{F3F0DB77-1403-4098-BC37-95C48A764C7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48ADE2AE-7327-4DFC-92B5-F53F26C0016E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48ADE2AE-7327-4DFC-92B5-F53F26C0016E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48ADE2AE-7327-4DFC-92B5-F53F26C0016E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48ADE2AE-7327-4DFC-92B5-F53F26C0016E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3F0DB77-1403-4098-BC37-95C48A764C7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F0DB77-1403-4098-BC37-95C48A764C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F0DB77-1403-4098-BC37-95C48A764C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F0DB77-1403-4098-BC37-95C48A764C7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
